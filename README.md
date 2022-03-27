@@ -1,5 +1,5 @@
 ## Hey there, I'm carsio junior 👋
-<div align="right">
+<div>
   <a href="https://github.com/Carsio-Junior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carsio-Junior&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carsio-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
